@@ -1,0 +1,7 @@
+C:\Users\47470093885\Desktop\C#\ListaTres\ListaTres\bin\Debug\ListaTres.exe.config
+C:\Users\47470093885\Desktop\C#\ListaTres\ListaTres\bin\Debug\ListaTres.exe
+C:\Users\47470093885\Desktop\C#\ListaTres\ListaTres\bin\Debug\ListaTres.pdb
+C:\Users\47470093885\Desktop\C#\ListaTres\ListaTres\obj\Debug\ListaTres.csproj.AssemblyReference.cache
+C:\Users\47470093885\Desktop\C#\ListaTres\ListaTres\obj\Debug\ListaTres.csproj.CoreCompileInputs.cache
+C:\Users\47470093885\Desktop\C#\ListaTres\ListaTres\obj\Debug\ListaTres.exe
+C:\Users\47470093885\Desktop\C#\ListaTres\ListaTres\obj\Debug\ListaTres.pdb
